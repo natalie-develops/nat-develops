@@ -1,5 +1,5 @@
 
-<h5>Hey there! 👋</h5>
+<h3>Hey there! 👋</h3>
 ✨ I'm Natalie ✨ and I feel really connected to helping people through the means of cutting edge technology! I enjoy creating  automation scripts as well as diving into cloud infrastructure. 
 
 - 😄 Pronouns: She/Her
